@@ -1,0 +1,10 @@
+What happens when you initialize a repository? Why do you need to do it?
+	
+	To create a repository so I can commit.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+	
+	It bundles the entire contents of the staging area and adds that to the
+	repository. It holds the content so you can commit one per logical change
+	instead of committing individually.
