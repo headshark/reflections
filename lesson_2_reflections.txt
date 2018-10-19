@@ -8,3 +8,9 @@ What value do you think it offers?
 	It bundles the entire contents of the staging area and adds that to the
 	repository. It holds the content so you can commit one per logical change
 	instead of committing individually.
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+	
+	I can use it to compare the changes that I have made by using git diff
+	and git diff --staged.
