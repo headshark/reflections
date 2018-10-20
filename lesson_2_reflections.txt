@@ -14,3 +14,9 @@ change?
 	
 	I can use it to compare the changes that I have made by using git diff
 	and git diff --staged.
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+	
+	When you're trying a new feature or making big changes. It is a big help
+	because you don't have to jump back where you at when you made those changes.
