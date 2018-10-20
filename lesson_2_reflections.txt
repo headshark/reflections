@@ -30,3 +30,8 @@ the diagram the way we do?
 	
 	The result is the commits where put together. Because it is way more easy to
 	understand with the diagram.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges
+manually?
+	Doing merges manually will let you see the similar lines and you can decide
+	which one will you keep.
