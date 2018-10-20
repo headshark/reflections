@@ -20,3 +20,7 @@ organized? How would branches help?
 	
 	When you're trying a new feature or making big changes. It is a big help
 	because you don't have to jump back where you at when you made those changes.
+
+How do the diagrams help you visualize the branch structure?
+	
+	It help me visualize easily because it is hard to understand by not drawing it.
