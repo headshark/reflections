@@ -26,3 +26,9 @@ and what would be harder?
 	
 	By just consulting each other personally, that's why it is much more easier
 	to collaborate using Git or GitHub.
+
+When would you want to make changes in a separate branch rather than directly in
+master?  What benefits does each approach have?
+	
+	When pulling a request. Making changes on branch will give you the power to
+	experiment or add that new feature.
