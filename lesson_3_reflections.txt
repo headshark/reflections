@@ -15,3 +15,8 @@ use one instead of another?
 	only while branches diverge you from the master of the repository. I would
 	use clones for copying a local repository while forks for copying on GitHub
 	and branches for experiments or making really big changes.
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+	
+	For knowing if you are ahead or behind.
